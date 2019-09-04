@@ -1,0 +1,22 @@
+
+# Ionic Native Packages
+npm i @ionic-native/camera@beta
+npm i @ionic-native/file@beta
+npm i @ionic-native/ionic-webview@beta
+npm i @ionic-native/file-path@beta
+npm i @ionic/storage 
+
+# Cordova Packages
+ionic cordova plugin add cordova-plugin-camera
+ionic cordova plugin add cordova-plugin-file
+ionic cordova plugin add cordova-plugin-ionic-webview
+ionic cordova plugin add cordova-sqlite-storage
+ionic cordova plugin add cordova-plugin-filepath
+
+
+ionic cordova plugin add cordova-plugin-crop
+cordova plugin add --save https://github.com/obeza/cordova-plugin-crop-with-ratio
+npm install @ionic-native/crop
+
+new
+npm install --save ng2-img-cropper

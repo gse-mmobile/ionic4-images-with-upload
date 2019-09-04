@@ -1,5 +1,7 @@
 {
   "name": "ionic4-images-wth-upload",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
